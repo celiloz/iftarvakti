@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "iftarvakti",
+    "slug": "iftarvakti",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
